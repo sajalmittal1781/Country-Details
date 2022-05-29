@@ -22,7 +22,7 @@
   color: #0ea5e9;
 }
 
-@media only screen and (min-width: 370px) {
+@media only screen and (min-width: 375px) {
   .div {
     margin-left: 1rem;
     margin-right: 4rem;
