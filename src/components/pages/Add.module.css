@@ -1,0 +1,28 @@
+.form {
+  text-align: center;
+  margin-left: 34.5%;
+  margin-top: 3rem;
+  background-color: #e2e8e0;
+  padding: 2rem 2rem;
+  margin-right: 33%;
+  border-radius: 3rem;
+}
+
+.button {
+  margin-right: 3rem;
+
+  padding: 0.5rem 0.5rem;
+  border-radius: 0.5rem;
+  background-color: #0ea5e9;
+}
+
+@media only screen and (min-width: 410px) {
+  .form {
+    margin-left: 5.5rem;
+    margin-right: 6rem;
+  }
+
+  .button {
+    margin-left: 3rem;
+  }
+}
