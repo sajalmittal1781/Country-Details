@@ -16,7 +16,7 @@
   background-color: #0ea5e9;
 }
 
-@media only screen and (min-width: 370px) {
+@media only screen and (min-width: 375px) {
   .form {
     margin-left: 5rem;
     margin-right: 5rem;
